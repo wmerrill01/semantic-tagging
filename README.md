@@ -19,6 +19,6 @@ Revised existing HTML codes to use semantic tags where appropriate.  I took out 
 
 
 
-Below is a link to the deployed application:
-<br>
-file:///C:/Users/willi/Documents/bootcamp/homework/hw-1/index.html
+## Link to the deployed page
+
+[Here is a link to my deployed code](https://wmerrill01.github.io/semantic-tagging/)
